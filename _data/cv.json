@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "HEC, University of Lausanne",
+      "area": "Ph.D in Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2027(expected)",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Peking University",
+      "area": "M.S. in Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Zhejiang University",
+      "area": "B.S. in Agricultural Economics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
